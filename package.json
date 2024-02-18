@@ -2,7 +2,7 @@
   "name": "html-intento-1.2",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node index.js"
