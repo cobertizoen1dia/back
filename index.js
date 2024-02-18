@@ -29,7 +29,7 @@ app.post('/enviar-correo', (req, res) => {
   });
 
   const mailOptions = {
-    from: 'matriax39@gmail.com',
+    from: 'danielugartecorrea1@gmail.com',
     to: 'contacto@cobertizoen1dia.cl',
     subject: 'Datos del usuario',
     text: `
@@ -69,7 +69,7 @@ app.post('/enviar-correo2', (req, res) => {
   });
 
   const mailOptions = {
-    from: 'matriax39@gmail.com',
+    from: 'danielugartecorrea1@gmail.com',
     to: 'contacto@cobertizoen1dia.cl',
     subject: 'Datos de contacto',
     text: `
